@@ -4,4 +4,8 @@ Kandilli sitesi üzerindeki veriler çekilerek görselleştirilmiştir. Ek olara
 ##### `final_array = [x for x in final_array if x['Büyüklük(ML)'] >= 4]`
 ##### `final_array = [x for x in final_array if x['Uzaklık(km)'] <= 100 ]`
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![ScreenShot_1](https://raw.githubusercontent.com/mzeybek89/deprem/master/images/Screenshot_1.png)
+
+![ScreenShot_2](https://raw.githubusercontent.com/mzeybek89/deprem/master/images/Screenshot_2.png)
+
+![ScreenShot_3](https://raw.githubusercontent.com/mzeybek89/deprem/master/images/Screenshot_3.png)
